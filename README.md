@@ -5,3 +5,6 @@ Using this model we simulate a video showing rooms in a hotel which can be seein
 You can get it from there and paste to the yolo-coco folder. The tested resutls are put in the output folder. It include both video and image output.
 
 We aslo develop a GPS tracking app which can track multiple loaction by activating the GPS. The app is available in the GPS traking floder.Using this app we can enable traking of different rooms in each floor.
+
+
+![Test Video](https://user-images.githubusercontent.com/62890575/83963162-7ac35e80-a8c1-11ea-929f-b1efebe3754b.gif)
